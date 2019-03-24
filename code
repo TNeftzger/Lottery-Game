@@ -2,35 +2,6 @@
 This program will simulate a lotto game. The user will be allowed to enter 6 numbers. 
 The program will display a simple menu and each item will utilize a function to impliment.
  
-The requirements are as follows:
- 
-    1.  Enter any 6 numbers (1–42 inclusive) from the keyboard. Perform any
-        necessary validation (error-checking) required (e.g. all numbers must be
-        different, range 1-42, etc.).
- 
-    2.  Display the contents of the 1-D array containing your lotto numbers that you
-        entered.
- 
-    3.  Sort the contents of the array in increasing order (i.e. 1st element = smallest
-        number, 2nd element = 2nd smallest number, etc.). You may use any sorting
-        algorithm of your choice.
- 
-    4.  Compare your chosen lotto numbers in the 1-D array with the following
-        winning numbers:
-        1,3,5,7,9,11 (Winning numbers), 42 (Bonus number)
-        Depending on how many of your chosen numbers match the above winning numbers,
-        your program should display one of the following messages:
-        Match 6 Jackpot
-        Match 5 + Bonus New car
-        Match 5 Holiday
-        Match 4 + Bonus Weekend away
-        Match 4 Night out
-        Match 3 + Bonus Cinema ticket
- 
-    5.  Display the frequency of the numbers entered.
- 
-    6.  Exit program.
- 
  Author - Tyra Neftzger/D17123259
  Date - February 22nd, 2018
  */
